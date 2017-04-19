@@ -1,0 +1,1406 @@
+Stock,Sector,Industry
+SPY,Financial,Exchange Traded Fund
+AAPL,Consumer Goods,Electronic Equipment
+IWM,Financial,Exchange Traded Fund
+GE,Industrial Goods,Diversified Machinery
+QQQ,Financial,Exchange Traded Fund
+EEM,Financial,Exchange Traded Fund
+BAC,Financial,Money Center Banks
+FB,Technology,Internet Information Providers
+VXX,Financial,Exchange Traded Fund
+USO,Financial,Exchange Traded Fund
+NFLX,Services,CATV Systems
+XLF,Financial,Exchange Traded Fund
+MSFT,Technology,Business Software &amp; Services
+TWTR,Technology,Internet Information Providers
+BABA,Services,Specialty Retail
+GLD,Financial,Exchange Traded Fund
+EWZ,Financial,Exchange Traded Fund
+AMZN,Services,Catalog &amp; Mail Order Houses
+FXI,Financial,Exchange Traded Fund
+HYG,Financial,Exchange Traded Fund
+INTC,Technology,Semiconductor - Broad Line
+TSLA,Consumer Goods,Auto Manufacturers - Major
+XOM,Basic Materials,Major Integrated Oil &amp; Gas
+DOW,Basic Materials,Chemicals - Major Diversified
+CHK,Basic Materials,Independent Oil &amp; Gas
+UVXY,Financial,Exchange Traded Fund
+PFE,Healthcare,Drug Manufacturers - Major
+FCX,Basic Materials,Copper
+MU,Technology,Semiconductor- Memory Chips
+DIS,Services,Entertainment - Diversified
+C,Financial,Money Center Banks
+VRX,Healthcare,Drug Delivery
+XOP,Financial,Exchange Traded Fund
+XLE,Financial,Exchange Traded Fund
+EFA,Financial,Exchange Traded Fund
+GDX,Financial,Exchange Traded Fund
+F,Consumer Goods,Auto Manufacturers - Major
+GILD,Healthcare,Biotechnology
+YHOO,Technology,Internet Information Providers
+JPM,Financial,Money Center Banks
+TLT,Financial,Exchange Traded Fund
+GPRO,Consumer Goods,Photographic Equipment &amp; Supplies
+CSCO,Technology,Networking &amp; Communication Devices
+DIA,Financial,Exchange Traded Fund
+T,Technology,Telecom Services - Domestic
+CVX,Basic Materials,Major Integrated Oil &amp; Gas
+AA,Basic Materials,Aluminum
+SLV,Financial,Exchange Traded Fund
+AAL,Services,Major Airlines
+RIG,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+WMT,Services,Discount
+KMI,Basic Materials,Oil &amp; Gas Pipelines
+X,Basic Materials,Steel &amp; Iron
+PBR,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+GM,Consumer Goods,Auto Manufacturers - Major
+SYF,Financial,Credit Services
+MCD,Services,Restaurants
+MNKD,Healthcare,Biotechnology
+QCOM,Technology,Communication Equipment
+BIDU,Technology,Internet Information Providers
+WFC,Financial,Money Center Banks
+GOOGL,Technology,Internet Information Providers
+SBUX,Services,Specialty Eateries
+P,Services,Broadcasting - Radio
+IYR,Financial,Exchange Traded Fund
+CAT,Industrial Goods,Farm &amp; Construction Machinery
+KO,Consumer Goods,Beverages - Soft Drinks
+ABX,Basic Materials,Gold
+DAL,Services,Major Airlines
+HAL,Basic Materials,Oil &amp; Gas Equipment &amp; Services
+VZ,Technology,Telecom Services - Domestic
+COP,Basic Materials,Independent Oil &amp; Gas
+WYNN,Services,Resorts &amp; Casinos
+RAD,Services,Drug Stores
+DXJ,Financial,Exchange Traded Fund
+IBM,Technology,Information Technology Services
+AGN,Healthcare,Drugs - Generic
+GOOG,Technology,Internet Information Providers
+CELG,Healthcare,Biotechnology
+V,Financial,Credit Services
+PCLN,Services,Business Services
+JCP,Services,Department Stores
+FXE,Financial,Exchange Traded Fund
+ORCL,Technology,Application Software
+VLO,Basic Materials,Oil &amp; Gas Refining &amp; Marketing
+M,Services,Department Stores
+VALE,Basic Materials,Industrial Metals &amp; Minerals
+HD,Services,Home Improvement Stores
+AIG,Financial,Property &amp; Casualty Insurance
+LVS,Services,Resorts &amp; Casinos
+JD,Technology,Internet Information Providers
+SCTY,Technology,Semiconductor - Specialized
+JNJ,Healthcare,Drug Manufacturers - Major
+UUP,Financial,Exchange Traded Fund
+FIT,Technology,Scientific &amp; Technical Instruments
+MS,Financial,Investment Brokerage - National
+TGT,Services,Discount
+UNG,Financial,Exchange Traded Fund
+BA,Industrial Goods,Aerospace/Defense Products &amp; Services
+GS,Financial,Investment Brokerage - National
+HPQ,Technology,Diversified Computer Systems
+SLB,Basic Materials,Oil &amp; Gas Equipment &amp; Services
+IBB,Financial,Exchange Traded Fund
+NKE,Consumer Goods,Textile - Apparel Footwear &amp; Accessories
+XLI,Financial,Exchange Traded Fund
+BBRY,Technology,Diversified Communication Services
+AMD,Technology,Semiconductor - Broad Line
+MYL,Healthcare,Drugs - Generic
+FEYE,Technology,Application Software
+MRK,Healthcare,Drug Manufacturers - Major
+SDS,Financial,Exchange Traded Fund
+CMG,Services,Restaurants
+XBI,Financial,Exchange Traded Fund
+YUM,Services,Restaurants
+WBA,Services,Drug Stores
+MGM,Services,Resorts &amp; Casinos
+OIH,Financial,Exchange Traded Fund
+XLV,Financial,Exchange Traded Fund
+PG,Consumer Goods,Personal Products
+LNKD,Technology,Internet Information Providers
+DE,Industrial Goods,Farm &amp; Construction Machinery
+CMCSA,Services,Entertainment - Diversified
+ETE,Basic Materials,Oil &amp; Gas Pipelines
+CRM,Technology,Application Software
+BX,Financial,Asset Management
+WFM,Services,Grocery Stores
+EBAY,Services,Specialty Retail
+AMBA,Technology,Semiconductor Equipment &amp; Materials
+NVDA,Technology,Semiconductor - Specialized
+SVXY,Financial,Exchange Traded Fund
+SPLS,Services,Specialty Retail
+LULU,Consumer Goods,Textile - Apparel Clothing
+DD,Basic Materials,Agricultural Chemicals
+AMAT,Technology,Semiconductor Equipment &amp; Materials
+BP,Basic Materials,Major Integrated Oil &amp; Gas
+AMGN,Healthcare,Biotechnology
+POT,Basic Materials,Agricultural Chemicals
+UPS,Services,Air Delivery &amp; Freight Services
+UA,Consumer Goods,Textile - Apparel Clothing
+TCK,Basic Materials,Industrial Metals &amp; Minerals
+XRT,Financial,Exchange Traded Fund
+ABBV,Healthcare,Drug Manufacturers - Major
+GLW,Technology,Diversified Electronics
+WFT,Basic Materials,Oil &amp; Gas Equipment &amp; Services
+UAL,Services,Major Airlines
+RSX,Financial,Exchange Traded Fund
+BMY,Healthcare,Drug Manufacturers - Major
+WTW,Services,Personal Services
+XLB,Financial,Exchange Traded Fund
+GG,Basic Materials,Gold
+PYPL,Financial,Credit Services
+HTZ,Services,Rental &amp; Leasing Services
+CBS,Services,Entertainment - Diversified
+MRO,Basic Materials,Independent Oil &amp; Gas
+ODP,Services,Specialty Retail
+EOG,Basic Materials,Independent Oil &amp; Gas
+AXP,Financial,Credit Services
+FAS,Financial,Exchange Traded Fund
+TEVA,Healthcare,Drug Manufacturers - Other
+TNA,Financial,Exchange Traded Fund
+APC,Basic Materials,Independent Oil &amp; Gas
+SWKS,Technology,Semiconductor - Integrated Circuits
+NEM,Basic Materials,Gold
+WMB,Basic Materials,Oil &amp; Gas Pipelines
+MDLZ,Consumer Goods,Confectioners
+XLU,Financial,Exchange Traded Fund
+BBY,Services,Electronics Stores
+S,Technology,Wireless Communications
+TXN,Technology,Semiconductor - Broad Line
+FDX,Services,Air Delivery &amp; Freight Services
+ATVI,Technology,Multimedia &amp; Graphics Software
+LUV,Services,Regional Airlines
+AVGO,Technology,Semiconductor - Broad Line
+LNG,Basic Materials,Oil &amp; Gas Pipelines
+TBT,Financial,Exchange Traded Fund
+COST,Services,Discount
+MON,Basic Materials,Agricultural Chemicals
+NUGT,Financial,Exchange Traded Fund
+CNX,Basic Materials,Independent Oil &amp; Gas
+HLF,Consumer Goods,Personal Products
+ESRX,Healthcare,Health Care Plans
+XLY,Financial,Exchange Traded Fund
+SDRL,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+XHB,Financial,Exchange Traded Fund
+PM,Consumer Goods,Cigarettes
+BIIB,Healthcare,Biotechnology
+UNP,Services,Railroads
+EWJ,Financial,Exchange Traded Fund
+UTX,Industrial Goods,Aerospace/Defense Products &amp; Services
+CSX,Services,Railroads
+MET,Financial,Life Insurance
+TAP,Consumer Goods,Beverages - Brewers
+UNH,Healthcare,Health Care Plans
+NCR,Technology,Information Technology Services
+NXPI,Technology,Semiconductor - Broad Line
+EUO,Financial,Exchange Traded Fund
+MO,Consumer Goods,Cigarettes
+HUN,Basic Materials,Chemicals - Major Diversified
+WLL,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+APA,Basic Materials,Independent Oil &amp; Gas
+CVS,Healthcare,Health Care Plans
+XLK,Financial,Exchange Traded Fund
+VIPS,Services,Catalog &amp; Mail Order Houses
+SLW,Basic Materials,Silver
+LLY,Healthcare,Drug Manufacturers - Major
+TSO,Basic Materials,Oil &amp; Gas Refining &amp; Marketing
+CLF,Basic Materials,Industrial Metals &amp; Minerals
+MA,Financial,Credit Services
+MDT,Healthcare,Medical Appliances &amp; Equipment
+SKX,Consumer Goods,Textile - Apparel Footwear &amp; Accessories
+PEP,Consumer Goods,Beverages - Soft Drinks
+KRE,Financial,Exchange Traded Fund
+ZIOP,Healthcare,Biotechnology
+PANW,Technology,Networking &amp; Communication Devices
+ADBE,Technology,Application Software
+HZNP,Healthcare,Drugs - Generic
+NOK,Technology,Communication Equipment
+FSLR,Technology,Semiconductor - Specialized
+STX,Technology,Data Storage Devices
+AET,Healthcare,Health Care Plans
+MBLY,Technology,Application Software
+OXY,Basic Materials,Independent Oil &amp; Gas
+SIRI,Services,Broadcasting - Radio
+EA,Technology,Multimedia &amp; Graphics Software
+ETP,Basic Materials,Oil &amp; Gas Pipelines
+XME,Financial,Exchange Traded Fund
+XRX,Technology,Information Technology Services
+EXPE,Services,Lodging
+SWN,Basic Materials,Independent Oil &amp; Gas
+SMH,Financial,Exchange Traded Fund
+HEDJ,Financial,Exchange Traded Fund
+CBI,Industrial Goods,General Contractors
+AMLP,Financial,Exchange Traded Fund
+KR,Services,Grocery Stores
+DDD,Technology,Computer Peripherals
+WDC,Technology,Data Storage Devices
+AKS,Basic Materials,Steel &amp; Iron
+KORS,Consumer Goods,Textile - Apparel Clothing
+LOW,Services,Home Improvement Stores
+ANF,Services,Apparel Stores
+TWX,Services,Entertainment - Diversified
+FTR,Technology,Telecom Services - Domestic
+GPS,Services,Apparel Stores
+ACAS,Financial,Asset Management
+NE,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+DUST,Financial,Exchange Traded Fund
+JBLU,Services,Regional Airlines
+AUY,Basic Materials,Gold
+AMJ,Financial,Exchange Traded Fund
+JOY,Industrial Goods,Farm &amp; Construction Machinery
+VMW,Technology,Technical &amp; System Software
+GSK,Healthcare,Drug Manufacturers - Major
+SGMS,Services,Gaming Activities
+MOS,Basic Materials,Agricultural Chemicals
+YELP,Technology,Internet Information Providers
+EPD,Basic Materials,Independent Oil &amp; Gas
+HOG,Consumer Goods,Recreational Vehicles
+BHI,Basic Materials,Oil &amp; Gas Equipment &amp; Services
+MBI,Financial,Property &amp; Casualty Insurance
+ADSK,Technology,Technical &amp; System Software
+FL,Consumer Goods,Textile - Apparel Footwear &amp; Accessories
+UCO,Financial,Exchange Traded Fund
+ZNGA,Technology,Multimedia &amp; Graphics Software
+WY,Industrial Goods,Lumber
+MMM,Industrial Goods,Diversified Machinery
+TZA,Financial,Exchange Traded Fund
+MAT,Consumer Goods,Toys &amp; Games
+ASNA,Services,Apparel Stores
+XLNX,Technology,Semiconductor - Integrated Circuits
+COH,Consumer Goods,Textile - Apparel Footwear &amp; Accessories
+GME,Services,Electronics Stores
+TSN,Consumer Goods,Meat Products
+JWN,Services,Apparel Stores
+PSX,Basic Materials,Oil &amp; Gas Refining &amp; Marketing
+JNPR,Technology,Networking &amp; Communication Devices
+USB,Financial,Regional - Midwest Banks
+SCHW,Financial,Investment Brokerage - National
+VNET,Technology,Information Technology Services
+DVN,Basic Materials,Independent Oil &amp; Gas
+OAS,Basic Materials,Independent Oil &amp; Gas
+EPI,Financial,Exchange Traded Fund
+CRUS,Technology,Semiconductor - Specialized
+MRVL,Technology,Semiconductor - Integrated Circuits
+SEAS,Services,Sporting Activities
+XLP,Financial,Exchange Traded Fund
+COG,Basic Materials,Independent Oil &amp; Gas
+VIAB,Services,Entertainment - Diversified
+CY,Technology,Semiconductor - Broad Line
+CTRP,Services,Lodging
+DHI,Industrial Goods,Residential Construction
+XPO,Services,Air Delivery &amp; Freight Services
+OPK,Healthcare,Biotechnology
+PXD,Basic Materials,Independent Oil &amp; Gas
+RRC,Basic Materials,Independent Oil &amp; Gas
+HRB,Services,Personal Services
+NFX,Basic Materials,Independent Oil &amp; Gas
+GRPN,Technology,Internet Information Providers
+EWY,Financial,Exchange Traded Fund
+BAX,Healthcare,Medical Instruments &amp; Supplies
+PRGO,Healthcare,Drug Related Products
+FCAU,Consumer Goods,Auto Manufacturers - Major
+KBH,Industrial Goods,Residential Construction
+CMI,Industrial Goods,Diversified Machinery
+BUD,Consumer Goods,Beverages - Brewers
+PTCT,Healthcare,Biotechnology
+GDXJ,Financial,Exchange Traded Fund
+TMUS,Technology,Wireless Communications
+ABT,Healthcare,Medical Appliances &amp; Equipment
+MXIM,Technology,Semiconductor - Broad Line
+AVP,Consumer Goods,Personal Products
+HON,Industrial Goods,Diversified Machinery
+GNW,Financial,Life Insurance
+SSO,Financial,Exchange Traded Fund
+HPE,Technology,Diversified Computer Systems
+A,Healthcare,Medical Laboratories &amp; Research
+BHP,Basic Materials,Industrial Metals &amp; Minerals
+LL,Services,Home Improvement Stores
+AEM,Basic Materials,Gold
+BKD,Healthcare,Long-Term Care Facilities
+CF,Basic Materials,Agricultural Chemicals
+ZTS,Healthcare,Drugs - Generic
+MPC,Basic Materials,Oil &amp; Gas Refining &amp; Marketing
+AKAM,Technology,Internet Information Providers
+CREE,Technology,Semiconductor Equipment &amp; Materials
+CIEN,Technology,Communication Equipment
+CLR,Basic Materials,Independent Oil &amp; Gas
+NRF,Financial,REIT - Retail
+SU,Basic Materials,Independent Oil &amp; Gas
+ALLY,Financial,Mortgage Investment
+TERP,Utilities,Diversified Utilities
+LC,Financial,Credit Services
+VOD,Technology,Wireless Communications
+SPXS,Financial,Exchange Traded Fund
+NAV,Consumer Goods,Trucks &amp; Other Vehicles
+EMR,Industrial Goods,Industrial Electrical Equipment
+ERX,Financial,Exchange Traded Fund
+CTL,Technology,Telecom Services - Domestic
+ESV,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+SRPT,Healthcare,Biotechnology
+PRU,Financial,Life Insurance
+OIL,Financial,Exchange Traded Fund
+LYB,Basic Materials,Specialty Chemicals
+MT,Basic Materials,Steel &amp; Iron
+LRCX,Technology,Semiconductor Equipment &amp; Materials
+FOXA,Services,Entertainment - Diversified
+TIF,Services,Jewelry Stores
+EXC,Utilities,Diversified Utilities
+TRIP,Technology,Internet Information Providers
+HES,Basic Materials,Independent Oil &amp; Gas
+THC,Healthcare,Hospitals
+JBL,Technology,Printed Circuit Boards
+CMA,Financial,Money Center Banks
+LOCK,Technology,Application Software
+MPEL,Services,Resorts &amp; Casinos
+RAI,Consumer Goods,Cigarettes
+PAA,Basic Materials,Oil &amp; Gas Pipelines
+IP,Consumer Goods,Packaging &amp; Containers
+TQQQ,Financial,Exchange Traded Fund
+DB,Financial,Foreign Regional Banks
+INVN,Technology,Semiconductor - Integrated Circuits
+OLN,Basic Materials,Specialty Chemicals
+DLTR,Services,Discount
+SQQQ,Financial,Exchange Traded Fund
+GLNG,Services,Shipping
+HLT,Services,Lodging
+KKR,Financial,Asset Management
+KSS,Services,Department Stores
+TJX,Services,Department Stores
+NTAP,Technology,Data Storage Devices
+FXY,Financial,Exchange Traded Fund
+AEO,Services,Apparel Stores
+SINA,Technology,Internet Software &amp; Services
+GGP,Financial,REIT - Retail
+RH,Services,Home Furnishing Stores
+REGN,Healthcare,Biotechnology
+CX,Industrial Goods,Cement
+CME,Financial,Investment Brokerage - National
+OCN,Financial,Mortgage Investment
+HCA,Healthcare,Hospitals
+CCL,Services,Resorts &amp; Casinos
+DISH,Services,CATV Systems
+JNK,Financial,Exchange Traded Fund
+NOV,Basic Materials,Oil &amp; Gas Equipment &amp; Services
+CSIQ,Technology,Semiconductor - Specialized
+LMT,Industrial Goods,Aerospace/Defense Products &amp; Services
+ENDP,Healthcare,Drug Manufacturers - Other
+HFC,Basic Materials,Oil &amp; Gas Refining &amp; Marketing
+CTSH,Technology,Business Software &amp; Services
+HIMX,Technology,Semiconductor - Specialized
+JCI,Consumer Goods,Auto Parts
+SO,Utilities,Electric Utilities
+CL,Consumer Goods,Personal Products
+EWW,Financial,Exchange Traded Fund
+RAX,Technology,Information Technology Services
+FFIV,Technology,Business Software &amp; Services
+SPLK,Technology,Application Software
+ZOES,Services,Restaurants
+RF,Financial,Regional - Southeast Banks
+MNK,Healthcare,Drugs - Generic
+ADI,Technology,Semiconductor - Integrated Circuits
+SPWR,Technology,Semiconductor - Specialized
+EWT,Financial,Exchange Traded Fund
+MAR,Services,Lodging
+APD,Basic Materials,Chemicals - Major Diversified
+TASR,Industrial Goods,Aerospace/Defense Products &amp; Services
+WDAY,Technology,Application Software
+KHC,Consumer Goods,Food - Major Diversified
+FOSL,Consumer Goods,Textile - Apparel Footwear &amp; Accessories
+TSM,Technology,Semiconductor - Integrated Circuits
+ULTA,Services,Specialty Retail
+ILMN,Healthcare,Biotechnology
+NTES,Technology,Internet Software &amp; Services
+IEF,Financial,Exchange Traded Fund
+BBBY,Services,Home Furnishing Stores
+ROST,Services,Apparel Stores
+DG,Services,Discount
+CHTR,Services,CATV Systems
+GNC,Services,Drug Stores
+DATA,Technology,Application Software
+HIG,Financial,Property &amp; Casualty Insurance
+NRG,Utilities,Diversified Utilities
+MNST,Consumer Goods,Beverages - Soft Drinks
+CCE,Consumer Goods,Beverages - Soft Drinks
+URBN,Services,Apparel Stores
+CAG,Consumer Goods,Processed &amp; Packaged Goods
+STRP,Technology,Diversified Communication Services
+SFUN,Technology,Internet Information Providers
+ETN,Industrial Goods,Diversified Machinery
+GIS,Consumer Goods,Processed &amp; Packaged Goods
+RIO,Basic Materials,Industrial Metals &amp; Minerals
+ECA,Basic Materials,Major Integrated Oil &amp; Gas
+EWG,Financial,Exchange Traded Fund
+YNDX,Technology,Internet Information Providers
+AGO,Financial,Surety &amp; Title Insurance
+GT,Consumer Goods,Rubber &amp; Plastics
+MDY,Financial,Exchange Traded Fund
+COF,Financial,Credit Services
+NSC,Services,Railroads
+DECK,Consumer Goods,Textile - Apparel Footwear &amp; Accessories
+PHM,Industrial Goods,Residential Construction
+URI,Services,Rental &amp; Leasing Services
+ADM,Consumer Goods,Farm Products
+SHAK,Services,Specialty Eateries
+MPLX,Basic Materials,Oil &amp; Gas Pipelines
+CC,Basic Materials,Specialty Chemicals
+ACN,Technology,Information Technology Services
+DEO,Consumer Goods,Beverages - Wineries &amp; Distillers
+SWHC,Industrial Goods,Aerospace/Defense Products &amp; Services
+QUNR,Services,General Entertainment
+PLUG,Technology,Diversified Electronics
+LEN,Industrial Goods,Residential Construction
+WPZ,Basic Materials,Oil &amp; Gas Pipelines
+TOL,Industrial Goods,Residential Construction
+VFC,Consumer Goods,Textile - Apparel Clothing
+CAR,Services,Rental &amp; Leasing Services
+BURL,Services,Discount
+LLTC,Technology,Semiconductor - Specialized
+RCL,Services,Resorts &amp; Casinos
+EWA,Financial,Exchange Traded Fund
+INFN,Technology,Communication Equipment
+SGMO,Healthcare,Biotechnology
+W,Services,Catalog &amp; Mail Order Houses
+CYBR,Technology,Business Software &amp; Services
+RTRX,Healthcare,Drug Manufacturers - Major
+NVAX,Healthcare,Biotechnology
+OUTR,Services,Specialty Retail
+FAZ,Financial,Exchange Traded Fund
+Z,Financial,Property Management
+XON,Healthcare,Biotechnology
+TSL,Technology,Semiconductor - Specialized
+APOL,Services,Education &amp; Training Services
+NUE,Basic Materials,Steel &amp; Iron
+ETFC,Financial,Investment Brokerage - National
+DRI,Services,Restaurants
+DKS,Services,Sporting Goods Stores
+NOC,Industrial Goods,Aerospace/Defense - Major Diversified
+ITUB,Financial,Foreign Regional Banks
+NOW,Technology,Information Technology Services
+VNQ,Financial,Exchange Traded Fund
+MJN,Consumer Goods,Processed &amp; Packaged Goods
+NUS,Consumer Goods,Personal Products
+SHLD,Services,Department Stores
+NAT,Services,Shipping
+GRUB,Technology,Internet Information Providers
+BMRN,Healthcare,Biotechnology
+SLCA,Basic Materials,Industrial Metals &amp; Minerals
+QID,Financial,Exchange Traded Fund
+ARIA,Healthcare,Biotechnology
+LB,Services,Apparel Stores
+DHR,Industrial Goods,Diversified Machinery
+PAYX,Services,Staffing &amp; Outsourcing Services
+AFL,Financial,Accident &amp; Health Insurance
+QRVO,Technology,Semiconductor - Broad Line
+CPN,Utilities,Electric Utilities
+TRN,Services,Railroads
+KMX,Services,Auto Dealerships
+CMCM,Technology,Application Software
+WHR,Consumer Goods,Appliances
+BSX,Healthcare,Medical Appliances &amp; Equipment
+NBR,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+GOGO,Technology,Diversified Communication Services
+FEZ,Financial,Exchange Traded Fund
+NLY,Financial,REIT - Diversified
+CLVS,Healthcare,Biotechnology
+WWAV,Consumer Goods,Food - Major Diversified
+ITB,Financial,Exchange Traded Fund
+SE,Basic Materials,Oil &amp; Gas Pipelines
+NUAN,Technology,Application Software
+MAS,Industrial Goods,General Building Materials
+BOFI,Financial,Savings &amp; Loans
+CALM,Consumer Goods,Food - Major Diversified
+SCO,Financial,Exchange Traded Fund
+BLUE,Healthcare,Biotechnology
+AEP,Utilities,Electric Utilities
+HAS,Consumer Goods,Toys &amp; Games
+BK,Financial,Asset Management
+KSU,Services,Railroads
+HBI,Consumer Goods,Textile - Apparel Clothing
+KGC,Basic Materials,Gold
+KEY,Financial,Regional - Midwest Banks
+HSY,Consumer Goods,Confectioners
+DFS,Financial,Credit Services
+YPF,Basic Materials,Major Integrated Oil &amp; Gas
+SYMC,Technology,Security Software &amp; Services
+RTN,Industrial Goods,Aerospace/Defense Products &amp; Services
+SBGI,Services,Broadcasting - TV
+HST,Financial,REIT - Hotel/Motel
+WU,Financial,Credit Services
+FAST,Services,Industrial Equipment Wholesale
+PII,Consumer Goods,Recreational Vehicles
+BBT,Financial,Regional - Southeast Banks
+EWC,Financial,Exchange Traded Fund
+LGF,Services,Movie Production
+FTK,Basic Materials,Oil &amp; Gas Equipment &amp; Services
+SPXU,Financial,Exchange Traded Fund
+CEMP,Healthcare,Biotechnology
+FITB,Financial,Regional - Midwest Banks
+EVEP,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+PTEN,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+AGNC,Financial,REIT - Residential
+CYH,Healthcare,Hospitals
+BEN,Financial,Asset Management
+SAVE,Services,Major Airlines
+SYY,Services,Food Wholesale
+SWFT,Services,Trucking
+XCO,Basic Materials,Independent Oil &amp; Gas
+WSM,Services,Home Furnishing Stores
+SAN,Financial,Foreign Money Center Banks
+MTW,Industrial Goods,Farm &amp; Construction Machinery
+KNDI,Consumer Goods,Auto Manufacturers - Major
+BZH,Industrial Goods,Residential Construction
+HL,Basic Materials,Silver
+KATE,Consumer Goods,Textile - Apparel Clothing
+NQ,Technology,Application Software
+DUK,Utilities,Electric Utilities
+CTXS,Technology,Business Software &amp; Services
+SVU,Services,Grocery Stores
+DEPO,Healthcare,Drug Manufacturers - Other
+MDR,Basic Materials,Oil &amp; Gas Equipment &amp; Services
+RHT,Technology,Application Software
+WETF,Financial,Asset Management
+KERX,Healthcare,Biotechnology
+SCCO,Basic Materials,Copper
+CNQ,Basic Materials,Independent Oil &amp; Gas
+DNKN,Services,Restaurants
+OC,Industrial Goods,General Building Materials
+FE,Utilities,Electric Utilities
+HP,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+RGLD,Basic Materials,Gold
+AMT,Financial,REIT - Diversified
+SYNA,Technology,Application Software
+HA,Services,Regional Airlines
+AU,Basic Materials,Gold
+DO,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+CONN,Services,Electronics Stores
+JUNO,Healthcare,Biotechnology
+KLAC,Technology,Semiconductor Equipment &amp; Materials
+SPXL,Financial,Exchange Traded Fund
+CCJ,Basic Materials,Industrial Metals &amp; Minerals
+BWLD,Services,Restaurants
+ARRY,Healthcare,Biotechnology
+PPC,Consumer Goods,Food - Major Diversified
+JMEI,Services,Specialty Retail
+CLDX,Healthcare,Biotechnology
+BID,Services,Specialty Retail
+SSYS,Technology,Computer Peripherals
+RL,Consumer Goods,Textile - Apparel Clothing
+HSBC,Financial,Foreign Money Center Banks
+RMBS,Technology,Semiconductor- Memory Chips
+SPG,Financial,REIT - Retail
+FIVE,Services,Specialty Retail
+INSY,Healthcare,Biotechnology
+UBNT,Technology,Wireless Communications
+HRTX,Healthcare,Drug Manufacturers - Major
+UPRO,Financial,Exchange Traded Fund
+ALK,Services,Regional Airlines
+VNR,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+IBN,Financial,Money Center Banks
+FTNT,Technology,Application Software
+EXEL,Healthcare,Biotechnology
+ANTM,Healthcare,Health Care Plans
+EXAS,Healthcare,Medical Laboratories &amp; Research
+NSAM,Financial,REIT - Retail
+FOLD,Healthcare,Biotechnology
+POST,Consumer Goods,Food - Major Diversified
+WPX,Basic Materials,Independent Oil &amp; Gas
+LBTYK,Services,CATV Systems
+GNRC,Industrial Goods,Diversified Machinery
+K,Consumer Goods,Processed &amp; Packaged Goods
+AER,Services,Air Services
+LOCO,Services,Restaurants
+ABEV,Consumer Goods,Beverages - Brewers
+YRCW,Services,Trucking
+LUK,Financial,Investment Brokerage - National
+AMTD,Financial,Investment Brokerage - National
+ISRG,Healthcare,Medical Appliances &amp; Equipment
+HOLX,Healthcare,Medical Appliances &amp; Equipment
+AKRX,Healthcare,Drugs - Generic
+EROS,Services,Movie Production
+BCS,Financial,Foreign Money Center Banks
+CVRR,Basic Materials,Oil &amp; Gas Refining &amp; Marketing
+TER,Technology,Semiconductor Equipment &amp; Materials
+EMES,Basic Materials,Oil &amp; Gas Equipment &amp; Services
+CBOE,Financial,Diversified Investments
+BDSI,Healthcare,Biotechnology
+CZR,Services,Resorts &amp; Casinos
+PNC,Financial,Money Center Banks
+ACAD,Healthcare,Biotechnology
+ALXN,Healthcare,Biotechnology
+EL,Consumer Goods,Personal Products
+BV,Technology,Application Software
+VWO,Financial,Exchange Traded Fund
+TRV,Financial,Property &amp; Casualty Insurance
+IDTI,Technology,Semiconductor - Broad Line
+ARWR,Healthcare,Biotechnology
+FRO,Services,Shipping
+LPI,Basic Materials,Independent Oil &amp; Gas
+OLED,Technology,Semiconductor Equipment &amp; Materials
+INCY,Healthcare,Biotechnology
+CI,Healthcare,Health Care Plans
+FLR,Industrial Goods,Heavy Construction
+NMBL,Technology,Data Storage Devices
+JKS,Technology,Semiconductor - Specialized
+AZO,Services,Auto Parts Stores
+NBIX,Healthcare,Drugs - Generic
+AZN,Healthcare,Drug Manufacturers - Major
+IWO,Financial,Exchange Traded Fund
+VTL,Healthcare,Biotechnology
+MTG,Financial,Property &amp; Casualty Insurance
+AAP,Services,Auto Parts Stores
+BWP,Basic Materials,Oil &amp; Gas Pipelines
+DNR,Basic Materials,Independent Oil &amp; Gas
+GRMN,Technology,Scientific &amp; Technical Instruments
+GOLD,Basic Materials,Gold
+LPX,Services,Building Materials Wholesale
+STI,Financial,Money Center Banks
+BOX,Technology,Application Software
+ZG,Financial,Property Management
+TMO,Healthcare,Medical Laboratories &amp; Research
+GLUU,Technology,Multimedia &amp; Graphics Software
+HAIN,Services,Food Wholesale
+LQD,Financial,Exchange Traded Fund
+ABC,Services,Drugs Wholesale
+ELLI,Technology,Application Software
+THS,Consumer Goods,Processed &amp; Packaged Goods
+PPL,Utilities,Electric Utilities
+H,Services,Lodging
+SNE,Consumer Goods,Electronic Equipment
+CAB,Services,Sporting Goods Stores
+HUM,Healthcare,Health Care Plans
+BYD,Services,Resorts &amp; Casinos
+FLEX,Technology,Printed Circuit Boards
+GERN,Healthcare,Biotechnology
+RDUS,Healthcare,Biotechnology
+EGO,Basic Materials,Gold
+BCEI,Basic Materials,Independent Oil &amp; Gas
+CS,Financial,Foreign Money Center Banks
+LBTYA,Services,CATV Systems
+NWBO,Healthcare,Biotechnology
+BIB,Financial,Exchange Traded Fund
+USG,Industrial Goods,General Building Materials
+FDN,Financial,Exchange Traded Fund
+EW,Healthcare,Medical Appliances &amp; Equipment
+VMC,Industrial Goods,General Building Materials
+MUR,Basic Materials,Independent Oil &amp; Gas
+CIE,Basic Materials,Independent Oil &amp; Gas
+QSR,Services,Restaurants
+SSRI,Basic Materials,Silver
+MCK,Services,Drugs Wholesale
+EIX,Utilities,Electric Utilities
+MMP,Basic Materials,Oil &amp; Gas Pipelines
+ATHN,Technology,Healthcare Information Services
+YY,Technology,Internet Information Providers
+THLD,Healthcare,Biotechnology
+PH,Industrial Goods,Industrial Equipment &amp; Components
+PIR,Services,Specialty Retail
+PNRA,Services,Specialty Eateries
+MEG,Services,Broadcasting - TV
+DYN,Utilities,Electric Utilities
+MLM,Industrial Goods,General Building Materials
+NYRT,Financial,REIT - Office
+CAH,Services,Drugs Wholesale
+CIT,Financial,Credit Services
+PAH,Basic Materials,Specialty Chemicals
+ANET,Technology,Diversified Computer Systems
+ADXS,Healthcare,Biotechnology
+BKS,Services,Specialty Retail
+SWC,Basic Materials,Industrial Metals &amp; Minerals
+LXK,Technology,Computer Based Systems
+NBL,Basic Materials,Independent Oil &amp; Gas
+COMM,Technology,Communication Equipment
+SGYP,Healthcare,Drug Manufacturers - Other
+NAVI,Financial,Credit Services
+KMB,Consumer Goods,Personal Products
+SFM,Services,Grocery Stores
+D,Utilities,Electric Utilities
+NMM,Services,Shipping
+SA,Basic Materials,Gold
+CENX,Basic Materials,Aluminum
+BKLN,Financial,Exchange Traded Fund
+CERN,Technology,Healthcare Information Services
+ALL,Financial,Property &amp; Casualty Insurance
+FNF,Financial,Surety &amp; Title Insurance
+CHRW,Services,Air Delivery &amp; Freight Services
+LVLT,Technology,Diversified Communication Services
+CAA,Industrial Goods,Residential Construction
+PWR,Industrial Goods,General Contractors
+HCN,Financial,REIT - Healthcare Facilities
+STZ,Consumer Goods,Beverages - Wineries &amp; Distillers
+TSCO,Services,Specialty Retail
+DXCM,Healthcare,Medical Laboratories &amp; Research
+CHKP,Technology,Security Software &amp; Services
+KITE,Healthcare,Biotechnology
+RPTP,Healthcare,Biotechnology
+ICON,Consumer Goods,Textile - Apparel Footwear &amp; Accessories
+CLNE,Utilities,Gas Utilities
+NLNK,Healthcare,Biotechnology
+AG,Basic Materials,Silver
+CCI,Technology,Diversified Communication Services
+EMN,Basic Materials,Chemicals - Major Diversified
+ASML,Technology,Semiconductor Equipment &amp; Materials
+AR,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+HCLP,Basic Materials,Industrial Metals &amp; Minerals
+HCP,Financial,REIT - Healthcare Facilities
+TXMD,Healthcare,Drug Manufacturers - Major
+IMMU,Healthcare,Biotechnology
+TROX,Basic Materials,Chemicals - Major Diversified
+WM,Industrial Goods,Waste Management
+WUBA,Technology,Internet Information Providers
+SH,Financial,Exchange Traded Fund
+CRZO,Basic Materials,Independent Oil &amp; Gas
+VVUS,Healthcare,Biotechnology
+RY,Financial,Money Center Banks
+NGD,Basic Materials,Gold
+PAAS,Basic Materials,Silver
+ARCC,Financial,Diversified Investments
+NEE,Utilities,Electric Utilities
+PLD,Financial,REIT - Industrial
+EMB,Financial,Exchange Traded Fund
+SIG,Services,Jewelry Stores
+PSTG,Technology,Data Storage Devices
+GPRE,Basic Materials,Specialty Chemicals
+GRA,Basic Materials,Specialty Chemicals
+ONCE,Healthcare,Biotechnology
+NLSN,Technology,Information &amp; Delivery Services
+MAC,Financial,REIT - Retail
+CXO,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+SQ,Technology,Internet Software &amp; Services
+CSC,Technology,Information Technology Services
+NSM,Financial,Mortgage Investment
+PGR,Financial,Property &amp; Casualty Insurance
+WEN,Services,Restaurants
+STT,Financial,Asset Management
+CDE,Basic Materials,Silver
+BEAV,Industrial Goods,Aerospace/Defense Products &amp; Services
+DLR,Financial,REIT - Office
+EWH,Financial,Exchange Traded Fund
+AGU,Basic Materials,Agricultural Chemicals
+CNC,Healthcare,Health Care Plans
+TDC,Technology,Data Storage Devices
+BLK,Financial,Asset Management
+EXPR,Services,Apparel Stores
+NYCB,Financial,Savings &amp; Loans
+DY,Industrial Goods,Heavy Construction
+MIC,Services,Air Services
+SEDG,Technology,Semiconductor - Specialized
+VRTX,Healthcare,Biotechnology
+WIN,Technology,Telecom Services - Domestic
+IMAX,Services,Entertainment - Diversified
+CRC,Basic Materials,Independent Oil &amp; Gas
+CA,Technology,Business Software &amp; Services
+RDN,Financial,Property &amp; Casualty Insurance
+SEE,Consumer Goods,Packaging &amp; Containers
+CG,Financial,Asset Management
+GD,Industrial Goods,Aerospace/Defense Products &amp; Services
+FINL,Services,Specialty Retail
+PBYI,Healthcare,Biotechnology
+TDW,Basic Materials,Oil &amp; Gas Equipment &amp; Services
+ARNA,Healthcare,Biotechnology
+BWA,Consumer Goods,Auto Parts
+CERS,Healthcare,Biotechnology
+CVLT,Technology,Application Software
+XONE,Industrial Goods,Diversified Machinery
+HBAN,Financial,Regional - Midwest Banks
+XOMA,Healthcare,Biotechnology
+STRZA,Services,Entertainment - Diversified
+IOC,Basic Materials,Oil &amp; Gas Refining &amp; Marketing
+DOG,Financial,Exchange Traded Fund
+ED,Utilities,Electric Utilities
+SODA,Consumer Goods,Beverages - Soft Drinks
+ACHN,Healthcare,Biotechnology
+AVXL,Healthcare,Biotechnology
+BBG,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+BG,Consumer Goods,Farm Products
+JMBA,Services,Restaurants
+PPG,Basic Materials,Specialty Chemicals
+GALE,Healthcare,Biotechnology
+BLL,Consumer Goods,Packaging &amp; Containers
+LCI,Healthcare,Drugs - Generic
+RMTI,Healthcare,Drug Manufacturers - Major
+TOT,Basic Materials,Major Integrated Oil &amp; Gas
+XEC,Basic Materials,Independent Oil &amp; Gas
+BCOV,Technology,Application Software
+MCHP,Technology,Semiconductor - Specialized
+PACB,Healthcare,Biotechnology
+PSEC,Financial,Asset Management
+CAVM,Technology,Semiconductor - Broad Line
+ITW,Industrial Goods,Diversified Machinery
+VER,Financial,REIT - Diversified
+JACK,Services,Restaurants
+MLNX,Technology,Semiconductor - Broad Line
+HK,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+UVE,Financial,Property &amp; Casualty Insurance
+AEGR,Healthcare,Biotechnology
+JNUG,Financial,Exchange Traded Fund
+BBD,Financial,Foreign Regional Banks
+SSTK,Services,Business Services
+INTU,Technology,Application Software
+ETSY,Services,Specialty Retail
+ICPT,Healthcare,Biotechnology
+ALIM,Healthcare,Drug Manufacturers - Major
+MELI,Services,Catalog &amp; Mail Order Houses
+GSAT,Technology,Wireless Communications
+ACM,Services,Technical Services
+ADP,Technology,Business Software &amp; Services
+HALO,Healthcare,Biotechnology
+TEX,Industrial Goods,Farm &amp; Construction Machinery
+PCAR,Consumer Goods,Trucks &amp; Other Vehicles
+HDP,Technology,Technical &amp; System Software
+IVZ,Financial,Asset Management
+LE,Services,Catalog &amp; Mail Order Houses
+TTWO,Technology,Multimedia &amp; Graphics Software
+EDAP,Healthcare,Medical Appliances &amp; Equipment
+EXPD,Services,Air Delivery &amp; Freight Services
+FANG,Basic Materials,Independent Oil &amp; Gas
+IAG,Basic Materials,Gold
+EWM,Financial,Exchange Traded Fund
+TXT,Industrial Goods,Aerospace/Defense - Major Diversified
+OKE,Utilities,Gas Utilities
+REXX,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+VIXY,Financial,Exchange Traded Fund
+AMX,Technology,Wireless Communications
+NGL,Basic Materials,Oil &amp; Gas Refining &amp; Marketing
+PFF,Financial,Exchange Traded Fund
+ZION,Financial,Regional - Pacific Banks
+EPE,Basic Materials,Independent Oil &amp; Gas
+KCG,Financial,Investment Brokerage - National
+SGY,Basic Materials,Independent Oil &amp; Gas
+BRCD,Technology,Data Storage Devices
+RPRX,Healthcare,Biotechnology
+CNP,Utilities,Gas Utilities
+DPZ,Services,Restaurants
+PAY,Consumer Goods,Business Equipment
+MDVN,Healthcare,Biotechnology
+RACE,Consumer Goods,Auto Manufacturers - Major
+TNK,Services,Shipping
+AES,Utilities,Electric Utilities
+VEEV,Technology,Healthcare Information Services
+ENB,Basic Materials,Oil &amp; Gas Pipelines
+ERY,Financial,Exchange Traded Fund
+AMRN,Healthcare,Drug Manufacturers - Other
+IYT,Financial,Exchange Traded Fund
+RDC,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+ROK,Industrial Goods,Diversified Machinery
+VDSI,Technology,Security Software &amp; Services
+TUR,Financial,Exchange Traded Fund
+DDS,Services,Department Stores
+AFSI,Financial,Property &amp; Casualty Insurance
+AAN,Services,Rental &amp; Leasing Services
+AGQ,Financial,Exchange Traded Fund
+PAGP,Basic Materials,Oil &amp; Gas Pipelines
+PVH,Consumer Goods,Textile - Apparel Clothing
+IDCC,Technology,Wireless Communications
+QEP,Basic Materials,Oil &amp; Gas Pipelines
+GES,Services,Apparel Stores
+WB,Technology,Internet Information Providers
+GWPH,Healthcare,Drug Manufacturers - Major
+GREK,Financial,Exchange Traded Fund
+NG,Basic Materials,Gold
+PENN,Services,Resorts &amp; Casinos
+VTR,Financial,REIT - Healthcare Facilities
+PX,Basic Materials,Chemicals - Major Diversified
+NWL,Consumer Goods,Housewares &amp; Accessories
+INFY,Technology,Technical &amp; System Software
+CROX,Consumer Goods,Textile - Apparel Footwear &amp; Accessories
+DXD,Financial,Exchange Traded Fund
+CHS,Services,Apparel Stores
+DSW,Services,Apparel Stores
+SWK,Industrial Goods,Machine Tools &amp; Accessories
+CPB,Consumer Goods,Processed &amp; Packaged Goods
+ALNY,Healthcare,Biotechnology
+ASHS,Financial,Exchange Traded Fund
+VRSN,Technology,Internet Information Providers
+ASH,Basic Materials,Chemicals - Major Diversified
+CHL,Technology,Wireless Communications
+RUSL,Financial,Exchange Traded Fund
+ORLY,Services,Auto Parts Stores
+SHW,Basic Materials,Specialty Chemicals
+DVAX,Healthcare,Biotechnology
+LAZ,Financial,Asset Management
+PCRX,Healthcare,Drugs - Generic
+MSI,Technology,Communication Equipment
+TMV,Financial,Exchange Traded Fund
+EBIX,Technology,Business Software &amp; Services
+CP,Services,Railroads
+O,Financial,REIT - Retail
+MOMO,Technology,Internet Software &amp; Services
+OMF,Financial,Credit Services
+OVAS,Healthcare,Biotechnology
+MLPI,Financial,Exchange Traded Fund
+BIS,Financial,Exchange Traded Fund
+CLX,Consumer Goods,Housewares &amp; Accessories
+RRD,Services,Business Services
+DISCA,Services,CATV Systems
+PVG,Basic Materials,Industrial Metals &amp; Minerals
+BDX,Healthcare,Medical Instruments &amp; Supplies
+MANH,Technology,Application Software
+ON,Technology,Semiconductor - Broad Line
+AGCO,Industrial Goods,Farm &amp; Construction Machinery
+FMC,Basic Materials,Chemicals - Major Diversified
+GIII,Consumer Goods,Textile - Apparel Clothing
+TSEM,Technology,Semiconductor - Integrated Circuits
+MDC,Industrial Goods,Residential Construction
+QLD,Financial,Exchange Traded Fund
+SYK,Healthcare,Medical Appliances &amp; Equipment
+ATW,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+ECL,Consumer Goods,Cleaning Products
+TRUE,Technology,Internet Service Providers
+ZBRA,Industrial Goods,Diversified Machinery
+TD,Financial,Money Center Banks
+JAZZ,Healthcare,Biotechnology
+SNY,Healthcare,Drug Manufacturers - Major
+NCT,Financial,REIT - Diversified
+WYN,Services,Lodging
+ANFI,Consumer Goods,Food - Major Diversified
+ANGI,Technology,Internet Software &amp; Services
+ZFGN,Healthcare,Biotechnology
+MACK,Healthcare,Biotechnology
+OZM,Financial,Asset Management
+CSTE,Industrial Goods,General Building Materials
+GGAL,Financial,Foreign Regional Banks
+FNV,Basic Materials,Gold
+CUDA,Technology,Communication Equipment
+JO,Financial,Exchange Traded Fund
+YINN,Financial,Exchange Traded Fund
+SONC,Services,Restaurants
+VNDA,Healthcare,Biotechnology
+SBAC,Technology,Diversified Communication Services
+CLB,Basic Materials,Oil &amp; Gas Equipment &amp; Services
+MHK,Consumer Goods,Home Furnishings &amp; Fixtures
+HIBB,Services,Sporting Goods Stores
+VA,Services,Regional Airlines
+GBX,Services,Railroads
+COLM,Consumer Goods,Textile - Apparel Clothing
+CFG,Financial,Regional - Mid-Atlantic Banks
+PCG,Utilities,Electric Utilities
+PNK,Services,Resorts &amp; Casinos
+HOV,Industrial Goods,Residential Construction
+ATI,Industrial Goods,Metal Fabrication
+VHC,Technology,Internet Software &amp; Services
+SCSS,Consumer Goods,Home Furnishings &amp; Fixtures
+WNR,Basic Materials,Oil &amp; Gas Refining &amp; Marketing
+DOV,Industrial Goods,Diversified Machinery
+PKG,Consumer Goods,Packaging &amp; Containers
+STMP,Technology,Application Software
+BIG,Services,Discount
+IBKR,Financial,Investment Brokerage - National
+VGK,Financial,Exchange Traded Fund
+AMKR,Technology,Semiconductor - Integrated Circuits
+BERY,Consumer Goods,Packaging &amp; Containers
+EQIX,Technology,Internet Software &amp; Services
+PNR,Industrial Goods,Industrial Equipment &amp; Components
+PAYC,Technology,Application Software
+PWE,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+DAR,Industrial Goods,Waste Management
+HW,Industrial Goods,General Building Materials
+BGCP,Financial,Investment Brokerage - National
+PRAA,Services,Business Services
+TRGP,Basic Materials,Oil &amp; Gas Pipelines
+TTPH,Healthcare,Drugs - Generic
+IRBT,Consumer Goods,Appliances
+MEMP,Basic Materials,Independent Oil &amp; Gas
+BITA,Technology,Internet Information Providers
+MGA,Services,Auto Parts Wholesale
+PZZA,Services,Specialty Eateries
+CPHD,Technology,Scientific &amp; Technical Instruments
+DPM,Basic Materials,Oil &amp; Gas Pipelines
+HOS,Basic Materials,Oil &amp; Gas Equipment &amp; Services
+FDC,Services,Business Services
+EDU,Services,Education &amp; Training Services
+PBF,Basic Materials,Oil &amp; Gas Refining &amp; Marketing
+DHT,Services,Shipping
+NVS,Healthcare,Drug Manufacturers - Major
+TTM,Consumer Goods,Auto Manufacturers - Major
+CFX,Industrial Goods,Diversified Machinery
+SWIR,Technology,Communication Equipment
+DLPH,Consumer Goods,Auto Parts
+APO,Financial,Diversified Investments
+AXL,Consumer Goods,Auto Parts
+MX,Technology,Semiconductor - Specialized
+DPLO,Healthcare,Drugs - Generic
+ISIL,Technology,Semiconductor - Broad Line
+SC,Financial,Mortgage Investment
+ARMK,Services,Specialty Eateries
+PE,Basic Materials,Independent Oil &amp; Gas
+PLCE,Services,Apparel Stores
+NCLH,Services,Resorts &amp; Casinos
+NHTC,Consumer Goods,Personal Products
+IDRA,Healthcare,Biotechnology
+TWOU,Technology,Application Software
+CSTM,Industrial Goods,Metal Fabrication
+LNC,Financial,Life Insurance
+SDOW,Financial,Exchange Traded Fund
+GEL,Basic Materials,Oil &amp; Gas Pipelines
+FIG,Financial,Asset Management
+SN,Basic Materials,Independent Oil &amp; Gas
+CBG,Financial,Property Management
+DGX,Healthcare,Medical Laboratories &amp; Research
+CBRL,Services,Restaurants
+BC,Consumer Goods,Recreational Goods
+SIX,Services,General Entertainment
+CLMT,Basic Materials,Oil &amp; Gas Refining &amp; Marketing
+MCO,Services,Business Services
+WWE,Services,Entertainment - Diversified
+OKS,Basic Materials,Oil &amp; Gas Pipelines
+SHOP,Technology,Application Software
+RLGY,Financial,Property Management
+CAKE,Services,Restaurants
+GWW,Services,Industrial Equipment Wholesale
+CHAU,Financial,Exchange Traded Fund
+HRL,Consumer Goods,Meat Products
+UNXL,Technology,Diversified Electronics
+IR,Industrial Goods,Diversified Machinery
+OREX,Healthcare,Drug Manufacturers - Other
+AMPE,Healthcare,Biotechnology
+FXC,Financial,Exchange Traded Fund
+IPG,Services,Advertising Agencies
+VMEM,Technology,Data Storage Devices
+WPRT,Consumer Goods,Auto Parts
+EDC,Financial,Exchange Traded Fund
+TTS,Services,Home Improvement Stores
+CSU,Healthcare,Long-Term Care Facilities
+BCRX,Healthcare,Biotechnology
+RGR,Industrial Goods,Aerospace/Defense Products &amp; Services
+RNG,Technology,Application Software
+ESPR,Healthcare,Biotechnology
+TCS,Services,Specialty Retail
+DPS,Consumer Goods,Beverages - Soft Drinks
+MYGN,Services,Research Services
+PEIX,Basic Materials,Oil &amp; Gas Refining &amp; Marketing
+SGEN,Healthcare,Biotechnology
+GPOR,Basic Materials,Independent Oil &amp; Gas
+WAC,Financial,Mortgage Investment
+FMI,Healthcare,Medical Laboratories &amp; Research
+MVIS,Technology,Diversified Electronics
+TROW,Financial,Asset Management
+ICE,Financial,Diversified Investments
+IRM,Technology,Business Software &amp; Services
+ITC,Utilities,Electric Utilities
+TM,Consumer Goods,Auto Manufacturers - Major
+ASPS,Services,Business Services
+KN,Technology,Communication Equipment
+PRTA,Healthcare,Biotechnology
+MTOR,Consumer Goods,Auto Parts
+ADPT,Healthcare,Hospitals
+LPLA,Financial,Investment Brokerage - National
+RCII,Services,Rental &amp; Leasing Services
+FCEL,Utilities,Diversified Utilities
+LXRX,Healthcare,Biotechnology
+UNT,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+BLOX,Technology,Communication Equipment
+ALB,Basic Materials,Specialty Chemicals
+CNI,Services,Railroads
+GIL,Consumer Goods,Textile - Apparel Clothing
+JOE,Financial,Real Estate Development
+SAP,Technology,Application Software
+BLMN,Services,Restaurants
+AGI,Basic Materials,Gold
+CTAS,Services,Business Services
+GDDY,Technology,Internet Software &amp; Services
+STLD,Basic Materials,Steel &amp; Iron
+TPX,Consumer Goods,Home Furnishings &amp; Fixtures
+CPA,Services,Regional Airlines
+AGIO,Healthcare,Biotechnology
+HDB,Financial,Foreign Regional Banks
+ABY,Utilities,Electric Utilities
+BCOR,Technology,Internet Information Providers
+GPC,Services,Specialty Retail
+AGEN,Healthcare,Biotechnology
+ARAY,Healthcare,Medical Appliances &amp; Equipment
+MTH,Industrial Goods,Residential Construction
+ONVO,Healthcare,Medical Laboratories &amp; Research
+STO,Basic Materials,Major Integrated Oil &amp; Gas
+AVB,Financial,REIT - Residential
+EQR,Financial,REIT - Residential
+NNN,Financial,REIT - Diversified
+SPNC,Healthcare,Medical Appliances &amp; Equipment
+FISV,Services,Business Services
+R,Services,Rental &amp; Leasing Services
+HAR,Consumer Goods,Electronic Equipment
+SXL,Basic Materials,Oil &amp; Gas Pipelines
+EXP,Industrial Goods,Cement
+LEA,Consumer Goods,Auto Parts
+COTY,Consumer Goods,Personal Products
+DBC,Financial,Exchange Traded Fund
+TROV,Healthcare,Medical Laboratories &amp; Research
+WRK,Consumer Goods,Packaging &amp; Containers
+CPRT,Services,Auto Dealerships
+GPN,Services,Business Services
+IGT,Services,Gaming Activities
+CRR,Basic Materials,Oil &amp; Gas Equipment &amp; Services
+ECR,Basic Materials,Independent Oil &amp; Gas
+QVCA,Services,Catalog &amp; Mail Order Houses
+AHS,Healthcare,Specialized Health Services
+PSA,Financial,REIT - Industrial
+TAHO,Basic Materials,Industrial Metals &amp; Minerals
+NVDQ,Healthcare,Medical Laboratories &amp; Research
+ALKS,Healthcare,Drug Delivery
+FTI,Basic Materials,Oil &amp; Gas Equipment &amp; Services
+NVO,Healthcare,Drug Manufacturers - Other
+NKTR,Healthcare,Biotechnology
+ERIC,Technology,Communication Equipment
+MEOH,Basic Materials,Specialty Chemicals
+NSR,Technology,Diversified Communication Services
+STJ,Healthcare,Medical Appliances &amp; Equipment
+DIG,Financial,Exchange Traded Fund
+SYT,Basic Materials,Agricultural Chemicals
+TUP,Consumer Goods,Packaging &amp; Containers
+SFLY,Services,Personal Services
+IMPV,Technology,Application Software
+YANG,Financial,Exchange Traded Fund
+ABMD,Healthcare,Medical Appliances &amp; Equipment
+KMT,Industrial Goods,Machine Tools &amp; Accessories
+PRLB,Industrial Goods,Machine Tools &amp; Accessories
+ITCI,Healthcare,Biotechnology
+BPL,Basic Materials,Oil &amp; Gas Pipelines
+SHPG,Healthcare,Drug Manufacturers - Major
+DSX,Services,Shipping
+SRE,Utilities,Diversified Utilities
+ADTN,Technology,Communication Equipment
+WLB,Basic Materials,Nonmetallic Mineral Mining
+FLO,Consumer Goods,Processed &amp; Packaged Goods
+AOS,Industrial Goods,Industrial Electrical Equipment
+AXTA,Basic Materials,Specialty Chemicals
+KND,Healthcare,Long-Term Care Facilities
+MTB,Financial,Regional - Northeast Banks
+RRGB,Services,Restaurants
+SFL,Services,Shipping
+EDZ,Financial,Exchange Traded Fund
+LLL,Industrial Goods,Aerospace/Defense Products &amp; Services
+SMLP,Basic Materials,Oil &amp; Gas Pipelines
+NVRO,Healthcare,Medical Appliances &amp; Equipment
+TWM,Financial,Exchange Traded Fund
+WBAI,Services,Gaming Activities
+CDW,Technology,Information Technology Services
+MDXG,Healthcare,Medical Appliances &amp; Equipment
+FNSR,Technology,Networking &amp; Communication Devices
+SAND,Basic Materials,Gold
+EQT,Basic Materials,Independent Oil &amp; Gas
+SM,Basic Materials,Independent Oil &amp; Gas
+TV,Services,Broadcasting - TV
+ULE,Financial,Exchange Traded Fund
+DVA,Healthcare,Specialized Health Services
+OIS,Basic Materials,Oil &amp; Gas Equipment &amp; Services
+HRS,Technology,Communication Equipment
+STNG,Services,Shipping
+CRI,Consumer Goods,Textile - Apparel Clothing
+SSW,Services,Shipping
+GFI,Basic Materials,Gold
+OSK,Consumer Goods,Trucks &amp; Other Vehicles
+JASO,Technology,Semiconductor - Specialized
+JIVE,Technology,Application Software
+OMC,Services,Advertising Agencies
+VTI,Financial,Exchange Traded Fund
+CLH,Industrial Goods,Waste Management
+GASL,Financial,Exchange Traded Fund
+LH,Healthcare,Medical Laboratories &amp; Research
+VIAV,Technology,Communication Equipment
+BUFF,Consumer Goods,Food - Major Diversified
+CYTK,Healthcare,Biotechnology
+SONS,Technology,Communication Equipment
+DV,Services,Education &amp; Training Services
+FOX,Services,Entertainment - Diversified
+EPC,Consumer Goods,Personal Products
+SALE,Services,Marketing Services
+ALGN,Healthcare,Medical Appliances &amp; Equipment
+SPR,Industrial Goods,Aerospace/Defense Products &amp; Services
+AM,Basic Materials,Oil &amp; Gas Pipelines
+CECO,Services,Education &amp; Training Services
+IMOS,Technology,Semiconductor Equipment &amp; Materials
+OA,Industrial Goods,Aerospace/Defense Products &amp; Services
+GLPI,Financial,REIT - Diversified
+WGO,Consumer Goods,Recreational Vehicles
+AAOI,Technology,Semiconductor - Integrated Circuits
+ORIG,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+NXST,Services,Broadcasting - TV
+SIMO,Technology,Diversified Electronics
+BMO,Financial,Money Center Banks
+HPT,Financial,REIT - Retail
+TREE,Financial,Mortgage Investment
+JDST,Financial,Exchange Traded Fund
+NEON,Technology,Diversified Electronics
+CSOD,Technology,Application Software
+MAN,Services,Staffing &amp; Outsourcing Services
+OI,Consumer Goods,Packaging &amp; Containers
+SLM,Financial,Credit Services
+EEFT,Services,Business Services
+CAMP,Technology,Wireless Communications
+RYAM,Basic Materials,Chemicals - Major Diversified
+ABB,Industrial Goods,Diversified Machinery
+ERF,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+TRXC,Healthcare,Medical Instruments &amp; Supplies
+AN,Services,Auto Dealerships
+ARII,Services,Railroads
+CE,Basic Materials,Chemicals - Major Diversified
+CHAD,Financial,Exchange Traded Fund
+WRLD,Financial,Credit Services
+AERI,Healthcare,Drug Manufacturers - Major
+AYI,Technology,Diversified Electronics
+WIFI,Technology,Diversified Communication Services
+ZBH,Healthcare,Medical Appliances &amp; Equipment
+VNO,Financial,REIT - Diversified
+BLDR,Industrial Goods,General Building Materials
+TRQ,Basic Materials,Industrial Metals &amp; Minerals
+CYTR,Healthcare,Biotechnology
+ERII,Industrial Goods,Pollution &amp; Treatment Controls
+ARLP,Basic Materials,Industrial Metals &amp; Minerals
+KBE,Financial,Exchange Traded Fund
+TK,Services,Shipping
+BLCM,Healthcare,Biotechnology
+FXA,Financial,Exchange Traded Fund
+HACK,Financial,Exchange Traded Fund
+CALL,Technology,Telecom Services - Domestic
+CTB,Consumer Goods,Rubber &amp; Plastics
+LGIH,Financial,Real Estate Development
+SOHU,Technology,Internet Information Providers
+ST,Technology,Scientific &amp; Technical Instruments
+SMCI,Technology,Networking &amp; Communication Devices
+GLOG,Services,Shipping
+SPH,Utilities,Gas Utilities
+WBMD,Technology,Healthcare Information Services
+IPGP,Technology,Semiconductor Equipment &amp; Materials
+NDAQ,Financial,Diversified Investments
+SCHN,Basic Materials,Steel &amp; Iron
+TRMB,Technology,Scientific &amp; Technical Instruments
+RGEN,Healthcare,Biotechnology
+BPOP,Financial,Foreign Regional Banks
+ENS,Industrial Goods,Industrial Electrical Equipment
+PDLI,Healthcare,Biotechnology
+JBHT,Services,Trucking
+TIVO,Services,CATV Systems
+ARRS,Technology,Communication Equipment
+NTGR,Technology,Communication Equipment
+SJM,Consumer Goods,Processed &amp; Packaged Goods
+TRP,Basic Materials,Oil &amp; Gas Pipelines
+XL,Financial,Property &amp; Casualty Insurance
+GPK,Consumer Goods,Packaging &amp; Containers
+SHLX,Basic Materials,Oil &amp; Gas Pipelines
+SID,Basic Materials,Steel &amp; Iron
+UHS,Healthcare,Hospitals
+SUN,Basic Materials,Oil &amp; Gas Refining &amp; Marketing
+AIRM,Services,Air Services
+UTEK,Technology,Semiconductor Equipment &amp; Materials
+AMID,Basic Materials,Oil &amp; Gas Pipelines
+CLNY,Financial,REIT - Diversified
+GGB,Basic Materials,Steel &amp; Iron
+CEQP,Basic Materials,Oil &amp; Gas Pipelines
+KLIC,Technology,Semiconductor Equipment &amp; Materials
+VRA,Consumer Goods,Textile - Apparel Footwear &amp; Accessories
+OHRP,Healthcare,Biotechnology
+PFPT,Technology,Application Software
+MIK,Services,Specialty Retail
+CUR,Healthcare,Biotechnology
+FLS,Industrial Goods,Diversified Machinery
+MYCC,Services,Sporting Activities
+ECPG,Financial,Asset Management
+VSH,Technology,Semiconductor - Broad Line
+ZLTQ,Healthcare,Medical Appliances &amp; Equipment
+EYES,Healthcare,Medical Appliances &amp; Equipment
+FXH,Financial,Exchange Traded Fund
+MDRX,Technology,Application Software
+PDCE,Basic Materials,Independent Oil &amp; Gas
+PGH,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+UN,Consumer Goods,Personal Products
+CDNS,Technology,Application Software
+STKL,Consumer Goods,Processed &amp; Packaged Goods
+LOGM,Technology,Application Software
+OMER,Healthcare,Biotechnology
+EWP,Financial,Exchange Traded Fund
+MDCO,Healthcare,Drugs - Generic
+SAFM,Consumer Goods,Food - Major Diversified
+JAKK,Consumer Goods,Toys &amp; Games
+STAR,Financial,REIT - Diversified
+GSVC,Financial,Closed-End Fund - Equity
+VAR,Healthcare,Medical Appliances &amp; Equipment
+COO,Healthcare,Medical Instruments &amp; Supplies
+DF,Consumer Goods,Dairy Products
+TGNA,Services,Broadcasting - TV
+HDS,Services,Industrial Equipment Wholesale
+GTY,Financial,REIT - Retail
+FGP,Basic Materials,Oil &amp; Gas Refining &amp; Marketing
+MXL,Technology,Semiconductor - Integrated Circuits
+NOG,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+CLD,Basic Materials,Industrial Metals &amp; Minerals
+EQM,Basic Materials,Oil &amp; Gas Pipelines
+FXP,Financial,Exchange Traded Fund
+AMSC,Industrial Goods,Industrial Electrical Equipment
+DBD,Technology,Diversified Computer Systems
+FRGI,Services,Restaurants
+LABU,Financial,Exchange Traded Fund
+WAB,Services,Railroads
+FRAN,Services,Apparel Stores
+GNTX,Consumer Goods,Auto Parts
+DBA,Financial,Exchange Traded Fund
+ING,Financial,Life Insurance
+JEC,Services,Technical Services
+PF,Consumer Goods,Food - Major Diversified
+RMP,Basic Materials,Oil &amp; Gas Pipelines
+LSCC,Technology,Semiconductor - Specialized
+ANY,Technology,Application Software
+OHI,Financial,REIT - Healthcare Facilities
+ZEN,Technology,Application Software
+AL,Services,Rental &amp; Leasing Services
+AXDX,Healthcare,Medical Laboratories &amp; Research
+GTLS,Industrial Goods,Metal Fabrication
+LAD,Services,Auto Dealerships
+BPT,Basic Materials,Oil &amp; Gas Refining &amp; Marketing
+EEP,Basic Materials,Oil &amp; Gas Pipelines
+ACTG,Services,Business Services
+BNS,Financial,Money Center Banks
+GWR,Services,Railroads
+NTRI,Services,Personal Services
+SBH,Services,Specialty Retail
+IPI,Basic Materials,Agricultural Chemicals
+KS,Consumer Goods,Paper &amp; Paper Products
+YCS,Financial,Exchange Traded Fund
+KBR,Services,Technical Services
+FLT,Services,Business Services
+MUB,Financial,Exchange Traded Fund
+PBCT,Financial,Savings &amp; Loans
+BVN,Basic Materials,Industrial Metals &amp; Minerals
+CMPR,Services,Business Services
+SRS,Financial,Exchange Traded Fund
+TEP,Basic Materials,Oil &amp; Gas Pipelines
+TSS,Financial,Credit Services
+IAU,Financial,Exchange Traded Fund
+ACHC,Healthcare,Specialized Health Services
+CACC,Financial,Credit Services
+KOLD,Financial,Exchange Traded Fund
+CIM,Financial,REIT - Diversified
+PBI,Consumer Goods,Business Equipment
+GSM,Basic Materials,Industrial Metals &amp; Minerals
+CEO,Basic Materials,Oil &amp; Gas Drilling &amp; Exploration
+ENVA,Financial,Credit Services
+IEP,Conglomerates,Conglomerates
+PFG,Financial,Life Insurance
+TGP,Services,Shipping
+TIME,Services,Publishing - Periodicals
+FCG,Financial,Exchange Traded Fund
+BCE,Technology,Telecom Services - Domestic
+DNOW,Basic Materials,Oil &amp; Gas Equipment &amp; Services
+KPTI,Healthcare,Drugs - Generic
+MTZ,Industrial Goods,Heavy Construction
+ETR,Utilities,Electric Utilities
+HLX,Basic Materials,Oil &amp; Gas Equipment &amp; Services
+LJPC,Healthcare,Biotechnology
+MTN,Services,Resorts &amp; Casinos
+RGLS,Healthcare,Biotechnology
+SCMP,Healthcare,Drug Manufacturers - Other
+ANIP,Healthcare,Biotechnology
+AVT,Services,Electronics Wholesale
+MIDD,Industrial Goods,Diversified Machinery
+SRCL,Industrial Goods,Waste Management
+APH,Technology,Diversified Electronics
+USL,Financial,Exchange Traded Fund
+AZUR,Basic Materials,Oil &amp; Gas Pipelines
+KEM,Technology,Diversified Electronics
+MXWL,Technology,Diversified Electronics
+NRZ,Financial,REIT - Residential
+SKYW,Services,Regional Airlines
+ACOR,Healthcare,Biotechnology
+CRTO,Technology,Internet Information Providers
+ABG,Services,Auto Dealerships
+BXP,Financial,REIT - Office
+EAT,Services,Restaurants
