@@ -3,6 +3,7 @@ from AllTheSectorData import StockDict
 from AllTheSectorData import SECTORDICT
 from AllTheSectorData import allStocks
 from CorrelationFunctions import *
+import operator
 
 class SectorGUI(Frame):
 	
@@ -17,7 +18,7 @@ class SectorGUI(Frame):
 		self.findSectors = SECTORDICT
 	
 	def create_widgets(self):
-		self.instruction = Label(self, text = "Enter teh Password")
+		self.instruction = Label(self, text = "Enter The Underlying")
 		
 		self.instruction.grid(row = 0, column = 0, columnspan =2, sticky = W)
 		
@@ -34,6 +35,8 @@ class SectorGUI(Frame):
 		self.text.delete(0.0, END)
 		
 		content = self.stockEntry.get().upper()
+		
+		testDict ={}
 		                                                                                            
 		if content in self.stockUniverse: #if the stock exists
 			contentCloseMarks = getCloseMarks(content)
@@ -41,8 +44,13 @@ class SectorGUI(Frame):
 			for item in self.findSectors[industry]:
 				itemCloseMarks = getCloseMarks(item)
 				correl = CorrelationCalc(contentCloseMarks,itemCloseMarks)
-				message = item + ' ' + str(correl) + '\n'
+				testDict[item] = correl
+				
+			sorted_tup = sorted(testDict.items(), key=operator.itemgetter(1))
+			for item in sorted_tup:
+				message = str(item)[1:-1] + '\n'
 				self.text.insert(0.0, message)
+			
 		else:
 			message = "ERROR"
 			self.text.insert(0.0, message)
